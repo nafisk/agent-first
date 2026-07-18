@@ -20,7 +20,7 @@
 
 | Area | Instruction | What it helps an agent do |
 |---|---|---|
-| 🏋️ Hevy | [Create verified Hevy routines from a training program](./HEVY/hevy-program-upload-guide.md) | Convert a source program into clean, mapped, validated, and live-verified Hevy routines. |
+| 🏋️ Hevy | [Create verified Hevy routines from a training program](./HEVY/) | Convert a source program into clean, mapped, validated, and live-verified Hevy routines. |
 
 As the library grows, add one folder per system or workflow and use descriptive lowercase filenames with hyphens.
 
@@ -142,7 +142,7 @@ Use Git history to document meaningful changes. When an API or dependency change
 agent-first/
   README.md
   HEVY/
-    hevy-program-upload-guide.md
+    README.md
 ```
 
 ## References
